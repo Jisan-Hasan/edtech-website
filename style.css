@@ -6,13 +6,8 @@ body {
 }
 
 /* Top Banner */
-/* .top-banner {
-    background-color: rgba(29, 29, 29, 0.7);
-} */
 
 .carousel-caption {
-    top: 50%;
+    top: 30%;
     transform: translateY(-30%);
 }
-
-
