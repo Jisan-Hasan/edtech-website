@@ -8,6 +8,6 @@ body {
 /* Top Banner */
 
 .carousel-caption {
-    top: 30%;
+    top: 50%;
     transform: translateY(-30%);
 }
